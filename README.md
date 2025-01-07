@@ -15,7 +15,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - Web Development (React.js, Node.js)
 
 ## 🌐 Find Me Online
-- [GitHub](https://anuraggmishraa.github.io/parkinglotsystem/)
+- [GitHub](https://anuraggmishraa.github.io/parkinglotsystem.github.io/)
 
 
 ## Portfolio Topic
