@@ -10,9 +10,9 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 
 ## 🚀 Skills
-- C++, Python, JavaScript
+- C++
 - Data Structures and Algorithms
-- Web Development (React.js, Node.js)
+
 
 ## 🌐 Find Me Online
 - [GitHub](https://anuraggmishraa.github.io/parkinglotsystem.github.io/)
@@ -28,7 +28,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Name</dt>
 <dd>Anurag Mishra</dd>
 <dt>SRN</dt>
-<dd>02FW23BCS201</dd>
+<dd>02FE23BCS201</dd>
 <dt>Course Instructor</dt>
 <dd>Mr. Shankar Biradar</dd>
 <dt>University</dt>
